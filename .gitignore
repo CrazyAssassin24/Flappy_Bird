@@ -1,0 +1,7 @@
+# Qt Creator and qmake user/build files
+*.pro.user
+*.pro.user.*
+.qmake.stash
+
+# Generated build output
+/build/

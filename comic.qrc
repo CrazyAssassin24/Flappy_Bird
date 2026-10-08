@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/comic">
+        <file>assets/panel1.png</file>
+        <file>assets/panel2.png</file>
+        <file>assets/panel3.png</file>
+        <file>assets/panel4.png</file>
+        <file>assets/panel5.png</file>
+        <file>assets/after_zero_cinematic.mp4</file>
+    </qresource>
+</RCC>
