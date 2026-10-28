@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/comic">
+        <file>assets/panel1.png</file>
+        <file>assets/panel2.png</file>
+        <file>assets/panel3.png</file>
+        <file>assets/panel4.png</file>
+        <file>assets/panel5.png</file>
+        <file>assets/after_zero_cinematic.mp4</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>assets/background_music.ogg</file>
+        <file>assets/intro_cinematic.ogg</file>
+        <file>assets/panel_transition.wav</file>
+        <file>assets/video_reveal.wav</file>
+        <file>assets/title_reveal.wav</file>
+        <file>assets/game_over_crash.wav</file>
+    </qresource>
+</RCC>
